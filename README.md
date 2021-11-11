@@ -2,8 +2,8 @@
  
  # Themes
  Theme downloader for PS3™ 4K Pro
-![image](https://user-images.githubusercontent.com/74815634/141283367-2b882821-923e-4fb5-bc19-d0af2c0a8c14.png)
-![image](https://user-images.githubusercontent.com/74815634/141283440-e7295ef9-6512-4136-a9f9-4e802895e510.png)
+![image](https://user-images.githubusercontent.com/74815634/141284203-3ada4570-7305-4ea9-ac9b-2d9264ae4d21.png)
+![image](https://user-images.githubusercontent.com/74815634/141284323-9c8ce249-e530-4a0a-ba11-dcd3284d3c03.png)
 
  # Credits
  
