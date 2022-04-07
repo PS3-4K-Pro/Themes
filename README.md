@@ -7,5 +7,5 @@
 
  # Credits
  
- All credits goes to the theme creators and @DeViL303 for the XMBML menu.
+ All credit goes to the theme creators and @DeViL303.
 </div>
